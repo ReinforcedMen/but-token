@@ -1,14 +1,33 @@
-# 🎯 MAJOR Token
+🍞 **BUT Token — Bread Utility Token**
 
-**It started with a smoke on Dust2. Then came the clutch. Then came the token.**
+> One token to feed them all.
 
-**MAJOR** is a meme-token forged in the chaos of CS2 Majors.  
-This isn't just another memecoin — it's a tribute to flicks, eco rushes, and broken dreams.
+BUT is a memecoin forged in the fires of hunger and hope.  
+It stands for one thing: **every holder deserves a loaf.**  
+A meme. A mission. A movement.
 
-- 📄 [Read our Meme Path Whitepaper](https://github.com/ReinforcedMen/major-token/blob/main/whitepaper/meme-path.md)
-- 💬 [Telegram](https://t.me/cs2majortoken)
-- 🕹️ [Twitter](https://x.com/GameZoneCrypto)
+---
 
-> Powered by memes. Aimed at the head. 🧠
+### 🥖 What is $BUT?
 
-Coming soon: Stickers, NFT highlights, and meme-driven tournaments.
+- A token of value.  
+- A token of survival.  
+- A token that reminds us: *you can’t eat charts, but you can eat bread*.
+
+---
+
+### 📚 Read the Bread Path (Whitepaper)
+
+- [Whitepaper: The Bread Path](./whitepaper/bread-path.md)
+
+---
+
+### 🔗 Community
+
+- Telegram: [@BUTTON_FREE](https://t.me/BUTTON_FREE)
+- Twitter: [@BUTTON_FREE](https://x.com/BUTTON_FREE)
+
+---
+
+Powered by carbs.  
+Baked for the people.
